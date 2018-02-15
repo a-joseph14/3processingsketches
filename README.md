@@ -15,7 +15,7 @@ Change mouse position to change the grid. Click or press left mouse to zoom in.
   
 **Look for the right color in an intuitive way.**  
   
-Change mouse x and y position to change color. Click left to increase brightness. Click right to decrease brightness. Press space to get the current colors RGB and brightness values.
+Change mouse x and y position to change color. Click left to decrease brightness. Click right to increase brightness. Press space to get the current colors RGB and brightness values.
 
 ## Nr.3: The Life of Pablo Cover Generator  
 ![Screenshot](scrn3.png)  
