@@ -14,7 +14,7 @@ Change the mouse position to change to grid. Click one time or keep pressed to z
 Change mouse x and y position to change color. Press space to get the current colors RGB and brightness information.
 
 ## Nr.3: The Life of Pablo Cover Generator  
-[Code](th)  
+[Code](sketch_theLifeOfPablo/sketch_lifeOfPablo.pde)  
 [Screenshot](scrn3.png)  
   
 Create your own version of Kanye West's The Life of Pablo album cover.  
