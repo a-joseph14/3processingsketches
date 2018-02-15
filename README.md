@@ -5,7 +5,8 @@
 [Code](ellipseZoom.pde)   
 [Screenshot](scrn1.png)  
   
-Change the mouse position to change to grid. Click one time or keep pressed to zoom in.  
+change mouse position to change the grid  
+click or press left mouse to zoom in   
   
 ## Nr.2: Color Picker  
 [Code](colorPicker.pde)  
@@ -13,7 +14,7 @@ Change the mouse position to change to grid. Click one time or keep pressed to z
   
 **Look for the right color in an intuitive way.**  
   
-Change mouse x and y position to change color. Press space to get the current colors RGB and brightness information.
+Change mouse x and y position to change color. Press space to get the current colors RGB and brightness values.
 
 ## Nr.3: The Life of Pablo Cover Generator  
 [Code](sketch_lifeOfPablo/sketch_lifeOfPablo.pde)  
