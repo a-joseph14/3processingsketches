@@ -1,5 +1,4 @@
 /* KANYE WEST - THE LIFE OF PABLO Cover Generator 
- by Jocelyn Neumann
  press mouse to draw text
  press space to change text
  arrow key up: big text
