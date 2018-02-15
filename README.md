@@ -19,10 +19,10 @@ Change mouse x and y position to change color. Press space to get the current co
   
 Create your own version of Kanye West's The Life of Pablo album cover.  
 
-Press mouse to draw text  
-Press space to change text  
-Arrow key up: big text  
-Arrow key down: small text  
+press mouse to draw text  
+press space to change text  
+arrow key up: big text size  
+arrow key down: small text size    
 any other key: reset  
 
 
