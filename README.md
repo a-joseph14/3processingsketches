@@ -5,8 +5,7 @@
 [Code](ellipseZoom.pde)   
 [Screenshot](scrn1.png)  
   
-change mouse position to change the grid  
-click or press left mouse to zoom in   
+Change mouse position to change the grid. Click or press left mouse to zoom in.  
   
 ## Nr.2: Color Picker  
 [Code](colorPicker.pde)  
