@@ -1,2 +1,2 @@
 # interfacesDeconstructed
-[Contribution guidelines for this project](interfacesDeconstructed/CONTRIBUTING.md)
+[Contribution guidelines for this project](interfacesDeconstructed/screenshots/scrn1.png)
