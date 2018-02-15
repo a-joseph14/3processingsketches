@@ -3,14 +3,14 @@
 
 ## Nr.1: Ellipse Zoom  
 ![Screenshot](scrn1.png)  
-[Code](ellipseZoom.pde)   
+[Code](sketch_ellipseZoom/ellipseZoom.pde)   
   
   
 Change mouse position to change the grid. Click or press left mouse to zoom in.  
   
 ## Nr.2: Color Picker  
 ![Screenshot](scrn2.png)  
-[Code](colorPicker.pde)  
+[Code](sketch_colorPicker/colorPicker.pde)  
 
   
 **Look for the right color in an intuitive way.**  
